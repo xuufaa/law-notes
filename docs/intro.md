@@ -2,46 +2,27 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 法考笔记简介
 
-Let's discover **Docusaurus in less than 5 minutes**.
+欢迎来到我的法考笔记网站！
 
-## Getting Started
+本网站记录了我在备考法律职业资格考试过程中的所有学习内容，包括：
 
-Get started by **creating a new site**.
+- 民法
+- 刑法
+- 民事诉讼法
+- 行政法与行政诉讼法
+- 商法
+- 理论法学等
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+笔记内容将持续更新，欢迎参考学习。
 
-### What you'll need
+## 快速导航
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- 👉 [民法笔记](./civil-law)
+- 👉 [刑法笔记](./criminal-law)
+- 👉 [民诉笔记](./civil-procedure)
 
-## Generate a new site
+---
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+如需联系我或提交建议，请访问 [GitHub 仓库](https://github.com/xuufaa/law-notes)。
